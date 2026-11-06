@@ -1,16 +1,31 @@
 {
-  "brand": {},
-  "common": {
+  "brand": {
+    "rhc": {
+      "text": {
+        "font-family": {
+          "sans": {
+            "$type": "fontFamilies",
+            "$value": "'RijksSansVF', 'Fira Sans', 'Arial', 'Verdana', sans-serif"
+          },
+          "serif": {
+            "$type": "fontFamilies",
+            "$value": "'RijksoverheidSerifWeb', 'Times New Roman', 'Roman', serif"
+          }
+        }
+      }
+    }
+  },
+  "common/basis": {
     "basis": {
       "text": {
         "font-family": {
           "default": {
             "$type": "fontFamilies",
-            "$value": "IBM Plex Sans, sans-serif"
+            "$value": "{rhc.text.font-family.sans}"
           },
           "monospace": {
             "$type": "fontFamilies",
-            "$value": "IBM Plex Mono, monospace"
+            "$value": "monospace"
           }
         },
         "font-weight": {
@@ -2655,6 +2670,30 @@
       }
     }
   },
+  "common/rhc": {
+    "rhc": {
+      "text": {
+        "font-weight": {
+          "thin": {
+            "$type": "fontWeights",
+            "$value": "Thin"
+          },
+          "light": {
+            "$type": "fontWeights",
+            "$value": "Light"
+          },
+          "semi-bold": {
+            "$type": "fontWeights",
+            "$value": "SemiBold"
+          },
+          "extra-bold": {
+            "$type": "fontWeights",
+            "$value": "ExtraBold"
+          }
+        }
+      }
+    }
+  },
   "components/button/nl": {
     "nl": {
       "button": {
@@ -2755,7 +2794,7 @@
           },
           "font-weight": {
             "$type": "fontWeights",
-            "$value": "{basis.text.font-weight.bold}"
+            "$value": "{rhc.text.font-weight.bold}"
           },
           "line-height": {
             "$type": "lineHeights",
@@ -5526,115 +5565,9 @@
   "$metadata": {
     "tokenSetOrder": [
       "brand",
-      "common",
-      "components/accordion",
-      "components/action-group",
-      "components/alert",
-      "components/avatar",
-      "components/backdrop",
-      "components/blockquote",
-      "components/breadcrumb-nav/amsterdam",
-      "components/breadcrumb-nav/utrecht",
-      "components/breadcrumb-nav/todo",
+      "common/basis",
+      "common/rhc",
       "components/button/nl",
-      "components/button/utrecht",
-      "components/calendar",
-      "components/card-as-link/amsterdam",
-      "components/card-as-link/todo",
-      "components/checkbox",
-      "components/code/nl",
-      "components/code/utrecht",
-      "components/code-block/nl",
-      "components/code-block/utrecht",
-      "components/color-sample/nl",
-      "components/color-sample/utrecht",
-      "components/contact-timeline",
-      "components/data-badge/nl",
-      "components/data-badge/utrecht",
-      "components/data-summary",
-      "components/date-input",
-      "components/description-list",
-      "components/drawer/utrecht",
-      "components/drawer/todo",
-      "components/document",
-      "components/dot-badge",
-      "components/fieldset",
-      "components/figure/amsterdam",
-      "components/figure/utrecht",
-      "components/file",
-      "components/file-input",
-      "components/form-field",
-      "components/form-field-description/nl",
-      "components/form-field-description/utrecht",
-      "components/form-field-error-message/nl",
-      "components/form-field-error-message/utrecht",
-      "components/form-field-label",
-      "components/form-field-label-suffix",
-      "components/form-summary",
-      "components/grid",
-      "components/heading/nl",
-      "components/heading/amsterdam",
-      "components/heading-1",
-      "components/heading-2",
-      "components/heading-3",
-      "components/heading-4",
-      "components/heading-5",
-      "components/heading-6",
-      "components/icon",
-      "components/icon-button/amsterdam",
-      "components/icon-button/denhaag",
-      "components/image",
-      "components/link/nl",
-      "components/link/utrecht",
-      "components/link-list",
-      "components/login-link",
-      "components/logo",
-      "components/mark/nl",
-      "components/mark/utrecht",
-      "components/modal-dialog",
-      "components/navigation-bar",
-      "components/navigation-list",
-      "components/note",
-      "components/number-badge/nl",
-      "components/number-badge/utrecht",
-      "components/ordered-list",
-      "components/page-body",
-      "components/page-number-navigation/utrecht",
-      "components/page-number-navigation/todo",
-      "components/paragraph/nl",
-      "components/paragraph/utrecht",
-      "components/password-input",
-      "components/pre-heading",
-      "components/progress-list/den-haag",
-      "components/progress-list/todo",
-      "components/radio-button",
-      "components/root",
-      "components/select",
-      "components/separator",
-      "components/side-navigation",
-      "components/skip-link/nl",
-      "components/skip-link/utrecht",
-      "components/status-badge/utrecht",
-      "components/status-badge/todo",
-      "components/step-marker",
-      "components/switch",
-      "components/table",
-      "components/tabs/amsterdam",
-      "components/tabs/den-haag",
-      "components/task-card",
-      "components/task-list",
-      "components/task-navigation",
-      "components/text-area",
-      "components/text-input",
-      "components/toolbar-button",
-      "components/unordered-list",
-      "components/body",
-      "components/page-header/amsterdam",
-      "components/page-header/utrecht",
-      "components/page-footer/amsterdam",
-      "components/page-footer/utrecht",
-      "components/article",
-      "components/listbox",
       "color-scheme-dark/common",
       "color-scheme-dark/components/progress-list/todo"
     ]
