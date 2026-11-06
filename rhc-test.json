@@ -1621,47 +1621,47 @@
         "inline": {
           "2xs": {
             "$type": "dimension",
-            "$value": "1px"
+            "$value": "{basis.space.inline.min.2xs}"
           },
           "xs": {
             "$type": "dimension",
-            "$value": "2px"
+            "$value": "{basis.space.inline.min.xs}"
           },
           "sm": {
             "$type": "dimension",
-            "$value": "4px"
+            "$value": "{basis.space.inline.min.sm}"
           },
           "md": {
             "$type": "dimension",
-            "$value": "8px"
+            "$value": "{basis.space.inline.min.md}"
           },
           "lg": {
             "$type": "dimension",
-            "$value": "12px"
+            "$value": "{basis.space.inline.min.lg}"
           },
           "xl": {
             "$type": "dimension",
-            "$value": "16px"
+            "$value": "{basis.space.inline.min.xl}"
           },
           "2xl": {
             "$type": "dimension",
-            "$value": "20px"
+            "$value": "{basis.space.inline.min.2xl}"
           },
           "3xl": {
             "$type": "dimension",
-            "$value": "24px"
+            "$value": "{basis.space.inline.min.3xl}"
           },
           "4xl": {
             "$type": "dimension",
-            "$value": "32px"
+            "$value": "{basis.space.inline.min.4xl}"
           },
           "5xl": {
             "$type": "dimension",
-            "$value": "48px"
+            "$value": "{basis.space.inline.min.5xl}"
           },
           "6xl": {
             "$type": "dimension",
-            "$value": "64px"
+            "$value": "{basis.space.inline.min.6xl}"
           },
           "min": {
             "2xs": {
@@ -1759,47 +1759,47 @@
         "block": {
           "2xs": {
             "$type": "dimension",
-            "$value": "1px"
+            "$value": "{basis.space.block.min.2xs}"
           },
           "xs": {
             "$type": "dimension",
-            "$value": "2px"
+            "$value": "{basis.space.block.min.xs}"
           },
           "sm": {
             "$type": "dimension",
-            "$value": "4px"
+            "$value": "{basis.space.block.min.sm}"
           },
           "md": {
             "$type": "dimension",
-            "$value": "8px"
+            "$value": "{basis.space.block.min.md}"
           },
           "lg": {
             "$type": "dimension",
-            "$value": "12px"
+            "$value": "{basis.space.block.min.lg}"
           },
           "xl": {
             "$type": "dimension",
-            "$value": "16px"
+            "$value": "{basis.space.block.min.xl}"
           },
           "2xl": {
             "$type": "dimension",
-            "$value": "20px"
+            "$value": "{basis.space.block.min.2xl}"
           },
           "3xl": {
             "$type": "dimension",
-            "$value": "24px"
+            "$value": "{basis.space.block.min.3xl}"
           },
           "4xl": {
             "$type": "dimension",
-            "$value": "32px"
+            "$value": "{basis.space.block.min.4xl}"
           },
           "5xl": {
             "$type": "dimension",
-            "$value": "48px"
+            "$value": "{basis.space.block.min.5xl}"
           },
           "6xl": {
             "$type": "dimension",
-            "$value": "64px"
+            "$value": "{basis.space.block.min.6xl}"
           },
           "min": {
             "2xs": {
@@ -1944,47 +1944,47 @@
         "column": {
           "2xs": {
             "$type": "dimension",
-            "$value": "1px"
+            "$value": "{basis.space.column.min.2xs}"
           },
           "xs": {
             "$type": "dimension",
-            "$value": "2px"
+            "$value": "{basis.space.column.min.xs}"
           },
           "sm": {
             "$type": "dimension",
-            "$value": "4px"
+            "$value": "{basis.space.column.min.sm}"
           },
           "md": {
             "$type": "dimension",
-            "$value": "8px"
+            "$value": "{basis.space.column.min.md}"
           },
           "lg": {
             "$type": "dimension",
-            "$value": "12px"
+            "$value": "{basis.space.column.min.lg}"
           },
           "xl": {
             "$type": "dimension",
-            "$value": "16px"
+            "$value": "{basis.space.column.min.xl}"
           },
           "2xl": {
             "$type": "dimension",
-            "$value": "20px"
+            "$value": "{basis.space.column.min.2xl}"
           },
           "3xl": {
             "$type": "dimension",
-            "$value": "24px"
+            "$value": "{basis.space.column.min.3xl}"
           },
           "4xl": {
             "$type": "dimension",
-            "$value": "32px"
+            "$value": "{basis.space.column.min.4xl}"
           },
           "5xl": {
             "$type": "dimension",
-            "$value": "64px"
+            "$value": "{basis.space.column.min.5xl}"
           },
           "6xl": {
             "$type": "dimension",
-            "$value": "160px"
+            "$value": "{basis.space.column.min.6xl}"
           },
           "min": {
             "2xs": {
@@ -2082,47 +2082,47 @@
         "row": {
           "2xs": {
             "$type": "dimension",
-            "$value": "1px"
+            "$value": "{basis.space.row.min.2xs}"
           },
           "xs": {
             "$type": "dimension",
-            "$value": "2px"
+            "$value": "{basis.space.row.min.xs}"
           },
           "sm": {
             "$type": "dimension",
-            "$value": "4px"
+            "$value": "{basis.space.row.min.sm}"
           },
           "md": {
             "$type": "dimension",
-            "$value": "8px"
+            "$value": "{basis.space.row.min.md}"
           },
           "lg": {
             "$type": "dimension",
-            "$value": "12px"
+            "$value": "{basis.space.row.min.lg}"
           },
           "xl": {
             "$type": "dimension",
-            "$value": "16px"
+            "$value": "{basis.space.row.min.xl}"
           },
           "2xl": {
             "$type": "dimension",
-            "$value": "20px"
+            "$value": "{basis.space.row.min.2xl}"
           },
           "3xl": {
             "$type": "dimension",
-            "$value": "24px"
+            "$value": "{basis.space.row.min.3xl}"
           },
           "4xl": {
             "$type": "dimension",
-            "$value": "32px"
+            "$value": "{basis.space.row.min.4xl}"
           },
           "5xl": {
             "$type": "dimension",
-            "$value": "64px"
+            "$value": "{basis.space.row.min.5xl}"
           },
           "6xl": {
             "$type": "dimension",
-            "$value": "160px"
+            "$value": "{basis.space.row.min.6xl}"
           },
           "min": {
             "2xs": {
