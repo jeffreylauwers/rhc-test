@@ -5946,59 +5946,59 @@
         "accent-1": {
           "bg-document": {
             "$type": "color",
-            "$value": "#001508"
+            "$value": "#FAFDFB"
           },
           "bg-subtle": {
             "$type": "color",
-            "$value": "#000502"
+            "$value": "#EFF9F3"
           },
           "bg-default": {
             "$type": "color",
-            "$value": "#00230D"
+            "$value": "#E4F5EA"
           },
           "bg-hover": {
             "$type": "color",
-            "$value": "#002D11"
+            "$value": "#D9F1E2"
           },
           "bg-active": {
             "$type": "color",
-            "$value": "#003714"
+            "$value": "#CEEDD9"
           },
           "border-subtle": {
             "$type": "color",
-            "$value": "#00481B"
+            "$value": "#8AD3A6"
           },
           "border-default": {
             "$type": "color",
-            "$value": "#00792D"
+            "$value": "#009B3A"
           },
           "border-hover": {
             "$type": "color",
-            "$value": "#008432"
+            "$value": "#009036"
           },
           "border-active": {
             "$type": "color",
-            "$value": "#009036"
+            "$value": "#008432"
           },
           "color-default": {
             "$type": "color",
-            "$value": "#54BF7C"
+            "$value": "#006827"
           },
           "color-hover": {
             "$type": "color",
-            "$value": "#78CD98"
+            "$value": "#005821"
           },
           "color-active": {
             "$type": "color",
-            "$value": "#9BDAB3"
+            "$value": "#00481B"
           },
           "color-subtle": {
             "$type": "color",
-            "$value": "#03A13F"
+            "$value": "#00732B"
           },
           "color-document": {
             "$type": "color",
-            "$value": "#E4F5EA"
+            "$value": "#00210C"
           }
         },
         "accent-1-inverse": {
@@ -6012,15 +6012,15 @@
           },
           "bg-default": {
             "$type": "color",
-            "$value": "#00702A"
+            "$value": "#006827"
           },
           "bg-hover": {
             "$type": "color",
-            "$value": "#00792D"
+            "$value": "#005821"
           },
           "bg-active": {
             "$type": "color",
-            "$value": "#007F2F"
+            "$value": "#00481B"
           },
           "border-subtle": {
             "$type": "color",
@@ -6040,15 +6040,15 @@
           },
           "color-default": {
             "$type": "color",
-            "$value": "#E4F5EA"
+            "$value": "#FFFFFF"
           },
           "color-hover": {
             "$type": "color",
-            "$value": "#E4F5EA"
+            "$value": "#FFFFFF"
           },
           "color-active": {
             "$type": "color",
-            "$value": "#E4F5EA"
+            "$value": "#FFFFFF"
           },
           "color-subtle": {
             "$type": "color",
@@ -6056,7 +6056,7 @@
           },
           "color-document": {
             "$type": "color",
-            "$value": "#E4F5EA"
+            "$value": "#FFFFFF"
           }
         }
       }
@@ -6068,59 +6068,59 @@
         "accent-1": {
           "bg-document": {
             "$type": "color",
-            "$value": "#2D0000"
+            "$value": "#FFFBFB"
           },
           "bg-subtle": {
             "$type": "color",
-            "$value": "#100000"
+            "$value": "#FEF4F4"
           },
           "bg-default": {
             "$type": "color",
-            "$value": "#450000"
+            "$value": "#FEEDED"
           },
           "bg-hover": {
             "$type": "color",
-            "$value": "#550000"
+            "$value": "#FDE6E6"
           },
           "bg-active": {
             "$type": "color",
-            "$value": "#650000"
+            "$value": "#FDDEDE"
           },
           "border-subtle": {
             "$type": "color",
-            "$value": "#820000"
+            "$value": "#F9B1B1"
           },
           "border-default": {
             "$type": "color",
-            "$value": "#D30000"
+            "$value": "#F14848"
           },
           "border-hover": {
             "$type": "color",
-            "$value": "#E60000"
+            "$value": "#EF2929"
           },
           "border-active": {
             "$type": "color",
-            "$value": "#EF2929"
+            "$value": "#E60000"
           },
           "color-default": {
             "$type": "color",
-            "$value": "#F78D8D"
+            "$value": "#B70000"
           },
           "color-hover": {
             "$type": "color",
-            "$value": "#F8A6A6"
+            "$value": "#9C0000"
           },
           "color-active": {
             "$type": "color",
-            "$value": "#FABDBD"
+            "$value": "#930000"
           },
           "color-subtle": {
             "$type": "color",
-            "$value": "#F25454"
+            "$value": "#CA0000"
           },
           "color-document": {
             "$type": "color",
-            "$value": "#FEEDED"
+            "$value": "#410000"
           }
         },
         "accent-1-inverse": {
@@ -6134,15 +6134,15 @@
           },
           "bg-default": {
             "$type": "color",
-            "$value": "#C50000"
+            "$value": "#B70000"
           },
           "bg-hover": {
             "$type": "color",
-            "$value": "#D30000"
+            "$value": "#9C0000"
           },
           "bg-active": {
             "$type": "color",
-            "$value": "#DC0000"
+            "$value": "#820000"
           },
           "border-subtle": {
             "$type": "color",
@@ -6162,15 +6162,15 @@
           },
           "color-default": {
             "$type": "color",
-            "$value": "#FEEDED"
+            "$value": "#FFFFFF"
           },
           "color-hover": {
             "$type": "color",
-            "$value": "#FEEDED"
+            "$value": "#FFFFFF"
           },
           "color-active": {
             "$type": "color",
-            "$value": "#FEEDED"
+            "$value": "#FFFFFF"
           },
           "color-subtle": {
             "$type": "color",
@@ -6178,7 +6178,7 @@
           },
           "color-document": {
             "$type": "color",
-            "$value": "#FEEDED"
+            "$value": "#FFFFFF"
           }
         }
       }
