@@ -5940,7 +5940,7 @@
       }
     }
   },
-  "primary-color/groen": {
+  "theme/groen": {
     "basis": {
       "color": {
         "accent-1": {
@@ -6062,7 +6062,7 @@
       }
     }
   },
-  "primary-color/robijn-rood": {
+  "theme/robijn-rood": {
     "basis": {
       "color": {
         "accent-1": {
@@ -7968,8 +7968,8 @@
       "components/paragraph/nl",
       "viewport/large/common/basis",
       "project-type/information-dense/common/basis",
-      "primary-color/groen",
-      "primary-color/robijn-rood",
+      "theme/groen",
+      "theme/robijn-rood",
       "color-scheme/dark/common/basis",
       "color-scheme/dark/components/progress-list/todo"
     ]
