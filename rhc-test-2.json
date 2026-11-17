@@ -1336,7 +1336,7 @@
           },
           "xl": {
             "$type": "fontSizes",
-            "$value": "{rhc.text.font-size.min.lg}"
+            "$value": "{rhc.text.font-size.min.xl}"
           },
           "2xl": {
             "$type": "fontSizes",
@@ -5517,7 +5517,7 @@
           },
           "xl": {
             "$type": "fontSizes",
-            "$value": "{rhc.text.font-size.max.lg}"
+            "$value": "{rhc.text.font-size.max.xl}"
           },
           "2xl": {
             "$type": "fontSizes",
