@@ -6613,7 +6613,7 @@
             "$value": "{rhc.color.dark.donkerbruin.500}"
           }
         },
-        "highdark": {
+        "highlight": {
           "bg-document": {
             "$type": "color",
             "$value": "{rhc.color.dark.donkergeel.50}"
@@ -7367,7 +7367,7 @@
             "$value": "{rhc.color.dark.wit}"
           }
         },
-        "highdark-inverse": {
+        "highlight-inverse": {
           "bg-document": {
             "$type": "color",
             "$value": "{rhc.color.dark.zwart}"
